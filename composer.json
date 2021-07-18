@@ -1,0 +1,6 @@
+{
+    "require": {
+        "illuminate/database": "^5.4",
+        "yajra/laravel-oci8": "^5.4"
+    }
+}
